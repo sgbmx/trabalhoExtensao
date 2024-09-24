@@ -1,4 +1,4 @@
-Trabalho de Extensão da Disciplina Tópicos de Big Data em Python da Faculdade Estácio. 
+Trabalho de Extensão da Faculdade Estácio. 
 
 Aluno: Lucas Cerqueira  / 
 Curso: ADS
